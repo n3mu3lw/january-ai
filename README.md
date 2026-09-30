@@ -1,6 +1,6 @@
 # january-ai
 
-An idiomatic, asynchronous Rust SDK for the January AI API (v1.2).
+Unofficial Rust SDK for the January AI API (v1.2).
 
 ## Contributing
 
