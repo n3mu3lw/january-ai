@@ -2,6 +2,10 @@
 name = "january-ai"
 version = "0.1.0"
 edition = "2024"
+description = "Unofficial Rust SDK for January AI"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/n3mu3lw/january-ai"
 
 [dependencies]
 anyhow = "1.0.104"
