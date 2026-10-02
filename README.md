@@ -10,6 +10,10 @@ Run the below command within your project directory:
 cargo add january-ai tokio --features tokio/full
 ```
 
+## Documentation
+
+Full crate documentation, including endpoint methods, request models, and response types, is hosted automatically on [docs.rs/january-ai](https://docs.rs/january-ai).
+
 ## Quickstart
 
 > [!NOTE]
