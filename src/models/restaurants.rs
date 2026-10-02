@@ -133,7 +133,7 @@ pub struct MenuItem {
 /// Menu item entry listed under a specific restaurant.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct RestaurantMenuItem {
-    /// Food identifier for the dish. Refer to [`FoodItem`].
+    /// Food identifier for the dish.
     pub id: String,
 
     /// Dish name. Null only when the menu source has no name.

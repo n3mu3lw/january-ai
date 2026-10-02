@@ -102,7 +102,7 @@ impl JanuaryAI {
     /// # Arguments
     ///
     /// * `req` - Reference to a [`MintClientTokenRequest`] specifying thetarget `end_user_id` and authorized
-    /// * [`Scope`](crate::models::Scope) permissions.
+    /// * [`Scope`] permissions.
     pub async fn mint_client_token(
         &self,
         req: &MintClientTokenRequest,
