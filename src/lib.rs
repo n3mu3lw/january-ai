@@ -2,25 +2,55 @@
 
 #![deny(missing_docs)]
 
-use anyhow::{Result, anyhow};
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use serde::Deserialize;
 use serde::de::DeserializeOwned;
+use thiserror::Error;
 
 pub mod models;
 pub use models::*;
 
 const BASE_URL: &str = "https://partners.january.ai/v1.2";
 
-/// Error payload returned by the January AI API when an HTTP request fails.
-#[derive(Debug, Deserialize)]
-pub struct APIError {
-    /// Stable error identifier string intended for programmatic branching (e.g., `"invalid_request"`).
-    pub code: String,
+/// The primary error type returned by all `january-ai` SDK operations.
+#[derive(Error, Debug)]
+pub enum Error {
+    /// January AI returned an HTTP error response with a JSON error payload.
+    #[error("API Error [{code}]: {message}")]
+    Api {
+        /// Stable error code (e.g., `"invalid_request"`).
+        code: String,
+        /// Human-readable description.
+        message: String,
+    },
 
-    /// Human-readable description of the error intended for developer debugging.
-    pub message: String,
+    /// Network or HTTP transport failure.
+    #[error("HTTP transport error: {0}")]
+    Reqwest(#[from] reqwest::Error),
+
+    /// Response payload deserialization failure.
+    #[error("Failed to decode response JSON: {err}. Raw payload: {payload}")]
+    JsonDecode {
+        /// Serde error.
+        err: serde_json::Error,
+        /// Raw body string.
+        payload: String,
+    },
 }
+
+/// Specialized Result type for January AI SDK operations.
+pub type Result<T> = std::result::Result<T, Error>;
+
+// internal helper struct for deserializing error payloads
+#[derive(Debug, Deserialize)]
+struct APIError {
+    #[serde(default)]
+    code: String,
+
+    #[serde(default)]
+    message: String,
+}
+
 /// The main SDK entrypoint for interacting with the January AI Partner API.
 pub struct JanuaryAI {
     client: reqwest::Client,
@@ -54,7 +84,11 @@ impl JanuaryAI {
         let mut headers = HeaderMap::new();
 
         let auth_val = format!("Bearer {}", key_str);
-        headers.insert(AUTHORIZATION, HeaderValue::from_str(&auth_val)?);
+        let header_val = HeaderValue::from_str(&auth_val).map_err(|e| Error::Api {
+            code: "invalid_api_key".to_string(),
+            message: format!("Invalid character in API key: {e}"),
+        })?;
+        headers.insert(AUTHORIZATION, header_val);
         headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
 
         let client = reqwest::Client::builder()
@@ -79,15 +113,17 @@ impl JanuaryAI {
         let text = res.text().await?;
 
         if status.is_success() {
-            serde_json::from_str::<T>(&text).map_err(|err| {
-                anyhow!("Failed to decode response JSON: {err}. Raw payload: {text}")
-            })
+            serde_json::from_str::<T>(&text).map_err(|err| Error::JsonDecode { err, payload: text })
         } else {
             let err = serde_json::from_str::<APIError>(&text).unwrap_or(APIError {
                 code: "unknown_error".to_string(),
                 message: text,
             });
-            Err(anyhow!("API Error [{}]: {}", err.code, err.message))
+
+            Err(Error::Api {
+                code: err.code,
+                message: err.message,
+            })
         }
     }
 

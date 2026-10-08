@@ -1,0 +1,4 @@
+{
+  "code": "invalid_request",
+  "message": "end_user_id is required: your stable ID for the end user this token acts as. Use the same ID your system already uses for them — it is opaque to January. scopes is required and must be a non-empty array naming only the scopes this token needs (least privilege). Valid scopes: foods:read, food_analysis:write, food_logs:read, food_logs:write, glucose:read, restaurants:read, water_logs:read, water_logs:write, weight_logs:read, weight_logs:write."
+}

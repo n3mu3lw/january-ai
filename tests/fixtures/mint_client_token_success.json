@@ -1,0 +1,9 @@
+{
+  "token": "ct_test",
+  "expires_in": 1800,
+  "expires_at": "2026-10-08T08:17:54.000Z",
+  "end_user_id": "testusr",
+  "scopes": [
+    "foods:read"
+  ]
+}
