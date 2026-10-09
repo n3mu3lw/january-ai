@@ -1,6 +1,6 @@
-# january-ai
+<h1 align="center">january-ai</h1>
 
-Unofficial Rust SDK for January AI
+<p align="center">Unofficial Rust SDK for January AI</p>
 
 ## Installation
 
@@ -44,6 +44,41 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     Ok(())
 }
+```
+
+## Local Development & Testing
+
+### Prerequisites
+
+* Rust 1.75+ toolchain
+
+### Setup
+
+1. Clone this repository
+
+```sh
+git clone https://github.com/n3mu3lw/january-ai.git
+```
+
+2. Navigate to the project directory and build the workspace
+
+```sh
+cd january-ai
+cargo build
+```
+
+### Running Integration Tests
+
+The test suite uses [`wiremock`](https://crates.io/crates/wiremock) to run offline integration tests against HTTP fixtures stored in `tests/fixtures/`.
+
+```bash
+# Run all tests
+cargo test
+
+# Run a specific test suite
+cargo test --test water_logs
+cargo test --test glucose
+cargo test --test restaurants
 ```
 
 ## Contributing
