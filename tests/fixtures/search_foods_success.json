@@ -1,0 +1,330 @@
+{
+  "items": [
+    {
+      "id": "70373991",
+      "type": "generic",
+      "name": "apple",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 94.64,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0.47,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 25.13,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 20.77,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.31,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 0.05,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 4.37,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 18.91,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1.82,
+          "unit": "mg"
+        },
+        "potassium": {
+          "value": 194.74,
+          "unit": "mg"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 50.99,
+      "glycemic_load": 12.82,
+      "image_url": "https://cdn.january.ai/food-images/70373991",
+      "barcode": null,
+      "servings": [
+        {
+          "id": "34071264",
+          "quantity": 1,
+          "unit": "medium (3\" dia)",
+          "scaling_factor": 1,
+          "weight_grams": 182,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "68154169",
+      "type": "branded",
+      "name": "Apple",
+      "brand_name": "Apple Country",
+      "nutrients": {
+        "calories": {
+          "value": 80,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 22,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 17,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 5,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 16,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 0,
+          "unit": "mg"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 52,
+      "glycemic_load": 11.44,
+      "image_url": null,
+      "barcode": null,
+      "servings": [
+        {
+          "id": "67154449",
+          "quantity": 1,
+          "unit": "medium apple",
+          "scaling_factor": 1,
+          "weight_grams": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "3026223",
+      "type": "recipe",
+      "name": "apple",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 523.72,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 9.91,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 77.85,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 73.92,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 20.07,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 10.24,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3.92,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 33.9,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 8,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 0.87,
+          "unit": "mg"
+        },
+        "potassium": {
+          "value": 0.36,
+          "unit": "mg"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 60.31,
+      "glycemic_load": 46.95,
+      "image_url": "https://cdn.january.ai/food-images/3026223",
+      "barcode": null,
+      "servings": [
+        {
+          "id": "19188172",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "70373304",
+      "type": "generic",
+      "name": "mcintosh apple",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 94.64,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0.47,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 25.13,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 20.77,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.31,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 0.05,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 4.37,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 18.91,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1.82,
+          "unit": "mg"
+        },
+        "potassium": {
+          "value": 194.74,
+          "unit": "mg"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 50.99,
+      "glycemic_load": 12.82,
+      "image_url": "https://cdn.january.ai/food-images/70373304",
+      "barcode": null,
+      "servings": [
+        {
+          "id": "34199552",
+          "quantity": 1,
+          "unit": "medium (3\" dia)",
+          "scaling_factor": 1,
+          "weight_grams": 182,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "68115627",
+      "type": "branded",
+      "name": "apple",
+      "brand_name": "Unknown",
+      "nutrients": {
+        "calories": {
+          "value": 80,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 22,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 18,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.5,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 4,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 0,
+          "unit": "mg"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 54.51,
+      "glycemic_load": 11.99,
+      "image_url": "https://cdn.january.ai/food-images/68115627",
+      "barcode": null,
+      "servings": [
+        {
+          "id": "67124886",
+          "quantity": 1,
+          "unit": "medium apple",
+          "scaling_factor": 1,
+          "weight_grams": 154,
+          "is_primary": true
+        }
+      ]
+    }
+  ]
+}

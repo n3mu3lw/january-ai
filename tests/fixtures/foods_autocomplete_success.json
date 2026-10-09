@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": "70373991",
+      "type": "generic",
+      "name": "apple",
+      "brand_name": null,
+      "image_url": "https://cdn.january.ai/food-images/70373991",
+      "nutrients": {
+        "calories": {
+          "value": 94.64,
+          "unit": "kcal"
+        }
+      }
+    },
+    {
+      "id": "70378904",
+      "type": "generic",
+      "name": "apple cider vinegar",
+      "brand_name": null,
+      "image_url": "https://cdn.january.ai/food-images/70378904",
+      "nutrients": {
+        "calories": {
+          "value": 3.13,
+          "unit": "kcal"
+        }
+      }
+    },
+    {
+      "id": "70381245",
+      "type": "generic",
+      "name": "apple pie",
+      "brand_name": null,
+      "image_url": "https://cdn.january.ai/food-images/70381245",
+      "nutrients": {
+        "calories": {
+          "value": 296.25,
+          "unit": "kcal"
+        }
+      }
+    },
+    {
+      "id": "70378673",
+      "type": "generic",
+      "name": "apple sauce",
+      "brand_name": null,
+      "image_url": "https://cdn.january.ai/food-images/70378673",
+      "nutrients": {
+        "calories": {
+          "value": 75.48,
+          "unit": "kcal"
+        }
+      }
+    },
+    {
+      "id": "70375016",
+      "type": "generic",
+      "name": "apple crisp",
+      "brand_name": null,
+      "image_url": null,
+      "nutrients": {
+        "calories": {
+          "value": 227.01,
+          "unit": "kcal"
+        }
+      }
+    }
+  ]
+}

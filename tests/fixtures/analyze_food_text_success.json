@@ -1,0 +1,145 @@
+{
+  "meal_name": null,
+  "total_nutrients": {
+    "calories": {
+      "value": 260.5,
+      "unit": "kcal"
+    },
+    "protein": {
+      "value": 10.09,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "value": 20.25,
+      "unit": "g"
+    },
+    "net_carbohydrates": {
+      "value": 14.86,
+      "unit": "g"
+    },
+    "total_fat": {
+      "value": 16.14,
+      "unit": "g"
+    },
+    "saturated_fat": {
+      "value": 3.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "value": 5.39,
+      "unit": "g"
+    },
+    "total_sugars": {
+      "value": 2,
+      "unit": "g"
+    },
+    "sodium": {
+      "value": 588,
+      "unit": "mg"
+    }
+  },
+  "detections": [
+    {
+      "confidence": null,
+      "food": {
+        "id": "70375567",
+        "name": "avocado toast",
+        "brand_name": null,
+        "nutrients": {
+          "calories": {
+            "value": 189,
+            "unit": "kcal"
+          },
+          "protein": {
+            "value": 3.84,
+            "unit": "g"
+          },
+          "carbohydrates": {
+            "value": 19.9,
+            "unit": "g"
+          },
+          "net_carbohydrates": {
+            "value": 14.5,
+            "unit": "g"
+          },
+          "total_fat": {
+            "value": 11.4,
+            "unit": "g"
+          },
+          "saturated_fat": {
+            "value": 1.64,
+            "unit": "g"
+          },
+          "fiber": {
+            "value": 5.39,
+            "unit": "g"
+          },
+          "total_sugars": {
+            "value": 1.81,
+            "unit": "g"
+          },
+          "sodium": {
+            "value": 439,
+            "unit": "mg"
+          }
+        },
+        "quantity": 1,
+        "serving": {
+          "id": "34157589",
+          "quantity": 1,
+          "unit": "piece",
+          "weight_grams": 97.1
+        }
+      }
+    },
+    {
+      "confidence": null,
+      "food": {
+        "id": "70371800",
+        "name": "poached egg",
+        "brand_name": null,
+        "nutrients": {
+          "calories": {
+            "value": 71.5,
+            "unit": "kcal"
+          },
+          "protein": {
+            "value": 6.25,
+            "unit": "g"
+          },
+          "carbohydrates": {
+            "value": 0.35,
+            "unit": "g"
+          },
+          "net_carbohydrates": {
+            "value": 0.35,
+            "unit": "g"
+          },
+          "total_fat": {
+            "value": 4.74,
+            "unit": "g"
+          },
+          "saturated_fat": {
+            "value": 1.56,
+            "unit": "g"
+          },
+          "total_sugars": {
+            "value": 0.18,
+            "unit": "g"
+          },
+          "sodium": {
+            "value": 149,
+            "unit": "mg"
+          }
+        },
+        "quantity": 1,
+        "serving": {
+          "id": "34113687",
+          "quantity": 1,
+          "unit": "large",
+          "weight_grams": 50
+        }
+      }
+    }
+  ]
+}

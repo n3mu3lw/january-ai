@@ -1,0 +1,54 @@
+{
+  "id": "67835190",
+  "type": "branded",
+  "name": "Cola",
+  "brand_name": "Coca-Cola",
+  "nutrients": {
+    "calories": {
+      "value": 140,
+      "unit": "kcal"
+    },
+    "protein": {
+      "value": 0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "value": 39,
+      "unit": "g"
+    },
+    "total_fat": {
+      "value": 0,
+      "unit": "g"
+    },
+    "total_sugars": {
+      "value": 39,
+      "unit": "g"
+    },
+    "added_sugars": {
+      "value": 39,
+      "unit": "g"
+    },
+    "sodium": {
+      "value": 45,
+      "unit": "mg"
+    },
+    "cholesterol": {
+      "value": 0,
+      "unit": "mg"
+    }
+  },
+  "glycemic_index": 100,
+  "glycemic_load": 39,
+  "image_url": "https://cdn.january.ai/food-images/67835190",
+  "barcode": "49000006346",
+  "servings": [
+    {
+      "id": "66948544",
+      "quantity": 1,
+      "unit": "can",
+      "scaling_factor": 1,
+      "weight_grams": 355,
+      "is_primary": true
+    }
+  ]
+}

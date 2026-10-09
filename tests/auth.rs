@@ -5,7 +5,6 @@ use january_ai::{Error, MintClientTokenRequest, Scope};
 use wiremock::matchers::{header, method, path};
 use wiremock::{Mock, ResponseTemplate};
 
-const AUTH_HEADER: &str = "Bearer sk_test";
 const TEST_USER_ID: &str = "testusr";
 
 #[tokio::test]

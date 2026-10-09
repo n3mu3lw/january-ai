@@ -1,0 +1,86 @@
+{
+  "id": "101963552",
+  "type": "branded",
+  "name": "Dipped Banana Bites",
+  "brand_name": "Banana",
+  "nutrients": {
+    "calories": {
+      "value": 130,
+      "unit": "kcal"
+    },
+    "protein": {
+      "value": 2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "value": 18,
+      "unit": "g"
+    },
+    "net_carbohydrates": {
+      "value": 16,
+      "unit": "g"
+    },
+    "total_fat": {
+      "value": 6,
+      "unit": "g"
+    },
+    "trans_fat": {
+      "value": 0,
+      "unit": "g"
+    },
+    "saturated_fat": {
+      "value": 4.5,
+      "unit": "g"
+    },
+    "calcium": {
+      "value": 0.61,
+      "unit": "mg"
+    },
+    "iron": {
+      "value": 5.56,
+      "unit": "mg"
+    },
+    "vitamin_d": {
+      "value": 0,
+      "unit": "IU"
+    },
+    "fiber": {
+      "value": 2,
+      "unit": "g"
+    },
+    "total_sugars": {
+      "value": 14,
+      "unit": "g"
+    },
+    "added_sugars": {
+      "value": 6,
+      "unit": "g"
+    },
+    "sodium": {
+      "value": 45,
+      "unit": "mg"
+    },
+    "potassium": {
+      "value": 230,
+      "unit": "mg"
+    },
+    "cholesterol": {
+      "value": 0,
+      "unit": "mg"
+    }
+  },
+  "glycemic_index": 49.9,
+  "glycemic_load": 8.98,
+  "image_url": null,
+  "barcode": "181158000088",
+  "servings": [
+    {
+      "id": "68051535",
+      "quantity": 1,
+      "unit": "oz",
+      "scaling_factor": 1,
+      "weight_grams": 28,
+      "is_primary": true
+    }
+  ]
+}

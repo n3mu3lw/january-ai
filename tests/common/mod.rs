@@ -1,6 +1,8 @@
 use january_ai::JanuaryAI;
 use wiremock::MockServer;
 
+pub const AUTH_HEADER: &str = "Bearer sk_test";
+
 pub async fn setup_mock_client() -> (MockServer, JanuaryAI) {
     let mock_server = MockServer::start().await;
 

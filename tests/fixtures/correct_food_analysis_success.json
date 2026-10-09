@@ -1,0 +1,104 @@
+{
+  "meal_name": "Scrambled Eggs And Toast With Orange Juice",
+  "total_nutrients": {
+    "calories": {
+      "value": 111.6,
+      "unit": "kcal"
+    },
+    "protein": {
+      "value": 1.74,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "value": 25.79,
+      "unit": "g"
+    },
+    "net_carbohydrates": {
+      "value": 25.3,
+      "unit": "g"
+    },
+    "total_fat": {
+      "value": 0.5,
+      "unit": "g"
+    },
+    "saturated_fat": {
+      "value": 0.06,
+      "unit": "g"
+    },
+    "fiber": {
+      "value": 0.5,
+      "unit": "g"
+    },
+    "total_sugars": {
+      "value": 20.83,
+      "unit": "g"
+    },
+    "added_sugars": {
+      "value": 0,
+      "unit": "g"
+    },
+    "sodium": {
+      "value": 2.48,
+      "unit": "mg"
+    }
+  },
+  "detections": [
+    {
+      "confidence": "high",
+      "food": {
+        "id": "70378404",
+        "name": "orange juice",
+        "brand_name": null,
+        "nutrients": {
+          "calories": {
+            "value": 111.6,
+            "unit": "kcal"
+          },
+          "protein": {
+            "value": 1.74,
+            "unit": "g"
+          },
+          "carbohydrates": {
+            "value": 25.79,
+            "unit": "g"
+          },
+          "net_carbohydrates": {
+            "value": 25.3,
+            "unit": "g"
+          },
+          "total_fat": {
+            "value": 0.5,
+            "unit": "g"
+          },
+          "saturated_fat": {
+            "value": 0.06,
+            "unit": "g"
+          },
+          "fiber": {
+            "value": 0.5,
+            "unit": "g"
+          },
+          "total_sugars": {
+            "value": 20.83,
+            "unit": "g"
+          },
+          "added_sugars": {
+            "value": 0,
+            "unit": "g"
+          },
+          "sodium": {
+            "value": 2.48,
+            "unit": "mg"
+          }
+        },
+        "quantity": 1,
+        "serving": {
+          "id": "34158268",
+          "quantity": 1,
+          "unit": "cup",
+          "weight_grams": 248
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "alternatives": [
+    {
+      "id": "70383579",
+      "name": "wild rice",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 109.3,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 4.29,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 23.1,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.4,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1.98,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34201413",
+          "quantity": 0.66,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70375631",
+      "name": "black rice",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 102.7,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 2.15,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 22.25,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.2,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 0.3,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34071642",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70379942",
+      "name": "red rice",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 109.2,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 2.3,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 22.9,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1.8,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34115947",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70379582",
+      "name": "quinoa",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 111,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 4.1,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 19.7,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 1.8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 2.6,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34201248",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70378780",
+      "name": "cauliflower rice",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 25,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 1.9,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 5,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.3,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 2,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34115670",
+          "quantity": 1,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70383490",
+      "name": "millet",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 103.55,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 3.05,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 20.6,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.85,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1.15,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34114376",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70378232",
+      "name": "buckwheat",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 115.95,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 4.28,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 25.13,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.75,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3.38,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34200941",
+          "quantity": 0.75,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70372220",
+      "name": "sorghum",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 83.39,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 2.71,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 18.28,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.89,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1.68,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34199273",
+          "quantity": 0.33,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70378226",
+      "name": "amaranth",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 125.45,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 4.65,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 23,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 1.95,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 2.6,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34072327",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70375856",
+      "name": "teff",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 127.25,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 4.9,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 25,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3.55,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34200345",
+          "quantity": 0.5,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70376463",
+      "name": "corn grits",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 99.99,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 1.91,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 21.32,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.59,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1.06,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34157796",
+          "quantity": 0.66,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    },
+    {
+      "id": "70375105",
+      "name": "lentil",
+      "brand_name": null,
+      "nutrients": {
+        "calories": {
+          "value": 229.7,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 17.9,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 39.9,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0.8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 15.6,
+          "unit": "g"
+        }
+      },
+      "servings": [
+        {
+          "id": "34071519",
+          "quantity": 1,
+          "unit": "cup",
+          "weight_grams": null
+        }
+      ]
+    }
+  ]
+}

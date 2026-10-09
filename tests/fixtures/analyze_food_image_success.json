@@ -1,0 +1,104 @@
+{
+  "meal_name": "Double Cheeseburger",
+  "total_nutrients": {
+    "calories": {
+      "value": 761.6,
+      "unit": "kcal"
+    },
+    "protein": {
+      "value": 47.49,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "value": 40.4,
+      "unit": "g"
+    },
+    "net_carbohydrates": {
+      "value": 37.6,
+      "unit": "g"
+    },
+    "total_fat": {
+      "value": 45.42,
+      "unit": "g"
+    },
+    "saturated_fat": {
+      "value": 18.12,
+      "unit": "g"
+    },
+    "fiber": {
+      "value": 2.8,
+      "unit": "g"
+    },
+    "total_sugars": {
+      "value": 9.77,
+      "unit": "g"
+    },
+    "added_sugars": {
+      "value": 0,
+      "unit": "g"
+    },
+    "sodium": {
+      "value": 1344,
+      "unit": "mg"
+    }
+  },
+  "detections": [
+    {
+      "confidence": null,
+      "food": {
+        "id": "70381752",
+        "name": "double cheeseburger",
+        "brand_name": null,
+        "nutrients": {
+          "calories": {
+            "value": 761.6,
+            "unit": "kcal"
+          },
+          "protein": {
+            "value": 47.49,
+            "unit": "g"
+          },
+          "carbohydrates": {
+            "value": 40.4,
+            "unit": "g"
+          },
+          "net_carbohydrates": {
+            "value": 37.6,
+            "unit": "g"
+          },
+          "total_fat": {
+            "value": 45.42,
+            "unit": "g"
+          },
+          "saturated_fat": {
+            "value": 18.12,
+            "unit": "g"
+          },
+          "fiber": {
+            "value": 2.8,
+            "unit": "g"
+          },
+          "total_sugars": {
+            "value": 9.77,
+            "unit": "g"
+          },
+          "added_sugars": {
+            "value": 0,
+            "unit": "g"
+          },
+          "sodium": {
+            "value": 1344,
+            "unit": "mg"
+          }
+        },
+        "quantity": 1,
+        "serving": {
+          "id": "34159110",
+          "quantity": 1,
+          "unit": "item",
+          "weight_grams": 280
+        }
+      }
+    }
+  ]
+}
