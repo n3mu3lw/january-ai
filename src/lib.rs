@@ -430,7 +430,11 @@ impl JanuaryAI {
     ///
     /// * `end_user_id` - The unique identifier of the end user.
     /// * `req` - Reference to [`LogWaterRequest`] containing water volume and unit.
-    pub async fn log_water(&self, end_user_id: &str, req: &LogWaterRequest) -> Result<WaterLog> {
+    pub async fn create_water_log(
+        &self,
+        end_user_id: &str,
+        req: &LogWaterRequest,
+    ) -> Result<WaterLog> {
         let url = format!("{}/water-logs", self.base_url);
         let res = self
             .client
@@ -500,7 +504,7 @@ impl JanuaryAI {
     ///
     /// * `end_user_id` - The unique identifier of the end user.
     /// * `req` - Reference to [`LogWeightRequest`].
-    pub async fn log_weight(
+    pub async fn create_weight_log(
         &self,
         end_user_id: &str,
         req: &LogWeightRequest,

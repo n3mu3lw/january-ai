@@ -279,6 +279,7 @@ pub struct WaterLog {
     /// ISO 8601 date-time timestamp when water was consumed in UTC with milliseconds.
     pub created_at: String,
 }
+
 /// Query parameters for listing water intake logs over a date range.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ListWaterLogsQuery {

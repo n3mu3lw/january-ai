@@ -1,0 +1,49 @@
+{
+  "points": [
+    {
+      "minutes": 0,
+      "value": 89.4173355103
+    },
+    {
+      "minutes": 15,
+      "value": 97.0773010254
+    },
+    {
+      "minutes": 30,
+      "value": 107.2573471069
+    },
+    {
+      "minutes": 45,
+      "value": 111.5052185059
+    },
+    {
+      "minutes": 60,
+      "value": 106.6732635498
+    },
+    {
+      "minutes": 75,
+      "value": 100.1949691772
+    },
+    {
+      "minutes": 90,
+      "value": 96.1774902344
+    },
+    {
+      "minutes": 105,
+      "value": 95.3151397705
+    },
+    {
+      "minutes": 120,
+      "value": 97.4100799561
+    },
+    {
+      "minutes": 135,
+      "value": 98.6648330688
+    }
+  ],
+  "impact_score": "low",
+  "chart": {
+    "min": 70,
+    "max": 140
+  }
+}
