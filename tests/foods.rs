@@ -1,5 +1,5 @@
 mod common;
-use common::{AUTH_HEADER, setup_mock_client};
+use common::*;
 
 use january_ai::{AutocompleteQuery, HealthierAlternativesRequest, SearchFoodsQuery};
 use wiremock::matchers::{header, method, path, query_param};

@@ -1,0 +1,60 @@
+{
+  "id": "13ad8e2a-fcdf-4768-946d-2d13e65e9c9b",
+  "foods": [
+    {
+      "food_id": "67835190",
+      "name": "Cola",
+      "brand_name": "Coca-Cola",
+      "image_url": "https://nutritionix-api.s3.amazonaws.com/5c8b5306c397fd0679775147.jpeg",
+      "glycemic_index": 100,
+      "glycemic_load": 39,
+      "nutrients": {
+        "calories": {
+          "value": 280,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 78,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 78,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 78,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 90,
+          "unit": "mg"
+        },
+        "trans_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      },
+      "quantity": 2,
+      "serving": {
+        "id": "66948544",
+        "quantity": 1,
+        "unit": "can",
+        "weight_grams": 355
+      }
+    }
+  ],
+  "created_at": "2026-10-09T07:56:27.097Z",
+  "name": "Updated Test Log"
+}

@@ -1,0 +1,191 @@
+{
+  "group_by": "day",
+  "week_start": null,
+  "timezone": "Africa/Nairobi",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-09",
+  "buckets": [
+    {
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-06",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "logs_count": 0,
+      "days_with_logs": 0,
+      "nutrients": {}
+    },
+    {
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "logs_count": 1,
+      "days_with_logs": 1,
+      "nutrients": {
+        "calories": {
+          "value": 140,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 0,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 39,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 39,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 39,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 45,
+          "unit": "mg"
+        },
+        "trans_fat": {
+          "value": 0,
+          "unit": "g"
+        },
+        "cholesterol": {
+          "value": 0,
+          "unit": "mg"
+        }
+      }
+    }
+  ],
+  "totals": {
+    "logs_count": 1,
+    "days_with_logs": 1,
+    "nutrients": {
+      "calories": {
+        "value": 140,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 39,
+        "unit": "g"
+      },
+      "total_fat": {
+        "value": 0,
+        "unit": "g"
+      },
+      "total_sugars": {
+        "value": 39,
+        "unit": "g"
+      },
+      "added_sugars": {
+        "value": 39,
+        "unit": "g"
+      },
+      "sodium": {
+        "value": 45,
+        "unit": "mg"
+      },
+      "trans_fat": {
+        "value": 0,
+        "unit": "g"
+      },
+      "cholesterol": {
+        "value": 0,
+        "unit": "mg"
+      }
+    }
+  },
+  "average_per_logged_day": {
+    "nutrients": {
+      "calories": {
+        "value": 140,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 39,
+        "unit": "g"
+      },
+      "total_fat": {
+        "value": 0,
+        "unit": "g"
+      },
+      "total_sugars": {
+        "value": 39,
+        "unit": "g"
+      },
+      "added_sugars": {
+        "value": 39,
+        "unit": "g"
+      },
+      "sodium": {
+        "value": 45,
+        "unit": "mg"
+      },
+      "trans_fat": {
+        "value": 0,
+        "unit": "g"
+      },
+      "cholesterol": {
+        "value": 0,
+        "unit": "mg"
+      }
+    }
+  }
+}

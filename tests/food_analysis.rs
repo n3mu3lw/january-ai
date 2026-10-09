@@ -1,5 +1,5 @@
 mod common;
-use common::{AUTH_HEADER, setup_mock_client};
+use common::*;
 
 use january_ai::{
     AnalyzeImageRequest, AnalyzeTextRequest, CorrectionRequest, FoodAnalysisResponse,
