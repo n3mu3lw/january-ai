@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "id": "219094097",
+      "name": "10 pc. Chicken McNuggets®",
+      "nutrients": {
+        "calories": {
+          "value": 440,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 23,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 26,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 24,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 27,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 4,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 2,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 900,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 57.661377,
+      "glycemic_load": 20.84357,
+      "servings": [
+        {
+          "id": "175360893",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "182434502",
+      "name": "10 pc. Chicken McNuggets® Meal",
+      "nutrients": {
+        "calories": {
+          "value": 910,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 25,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 76,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 73,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 55,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1380,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 65.24059,
+      "glycemic_load": 26.425022,
+      "servings": [
+        {
+          "id": "140617918",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "218143534",
+      "name": "10 pc. Chicken McNuggets® Meal",
+      "nutrients": {
+        "calories": {
+          "value": 840,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 41,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 63,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 59,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 45,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 4,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1380,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 65.24059,
+      "glycemic_load": 26.425022,
+      "servings": [
+        {
+          "id": "174412510",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "188581649",
+      "name": "13 Cookie Tote",
+      "nutrients": {
+        "calories": {
+          "value": 1560,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 16,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 223,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 223,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 72,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 36,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 0,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 120,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 60,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 780,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 63.7898,
+      "glycemic_load": 38.98817,
+      "servings": [
+        {
+          "id": "146727344",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "221336922",
+      "name": "13 Cookie Tote",
+      "nutrients": {
+        "calories": {
+          "value": 2000,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 20,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 300,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 290,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 70,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 35,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 10,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 240,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 120,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1000,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 63.7898,
+      "glycemic_load": 38.98817,
+      "servings": [
+        {
+          "id": "177598249",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "212760892",
+      "name": "1 Cookie",
+      "nutrients": {
+        "calories": {
+          "value": 150,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 1,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 22,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 21,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 7,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 3,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 1,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 10,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 5,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 100,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 67.811066,
+      "glycemic_load": 31.178444,
+      "servings": [
+        {
+          "id": "169042059",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "197060587",
+      "name": "20 pc. Chicken McNuggets®",
+      "nutrients": {
+        "calories": {
+          "value": 950,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 43,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 66,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 63,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 59,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 8,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 1,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 1,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1650,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 52.19551,
+      "glycemic_load": 19.260979,
+      "servings": [
+        {
+          "id": "153825330",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "217632906",
+      "name": "20 pc. Chicken McNuggets®",
+      "nutrients": {
+        "calories": {
+          "value": 950,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 46,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 45,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 42,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 57,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 9,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 3,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 2,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1890,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 52.19551,
+      "glycemic_load": 19.260979,
+      "servings": [
+        {
+          "id": "173903034",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "214730611",
+      "name": "20 pc. Chicken McNuggets® & 2 Medium Fries",
+      "nutrients": {
+        "calories": {
+          "value": 1280,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 57,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 100,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 91,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 81,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 12,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 9,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 0,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 2450,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 57.013874,
+      "glycemic_load": 43.419003,
+      "servings": [
+        {
+          "id": "171007300",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "189115866",
+      "name": "2 Cheeseburger Meal",
+      "nutrients": {
+        "calories": {
+          "value": 1150,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 56,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 77,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 73,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 67,
+          "unit": "g"
+        },
+        "saturated_fat": {
+          "value": 27,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 4,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 15,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 10,
+          "unit": "g"
+        },
+        "sodium": {
+          "value": 1400,
+          "unit": "mg"
+        }
+      },
+      "glycemic_index": 51.230846,
+      "glycemic_load": 31.734358,
+      "servings": [
+        {
+          "id": "147260467",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    }
+  ]
+}

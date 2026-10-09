@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "type": "menu_item",
+      "id": "209444902",
+      "name": "burrito",
+      "restaurant_name": "cmb kitchen",
+      "is_chain": false,
+      "nutrients": {
+        "calories": {
+          "value": 650,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 25,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 90,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 75,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 22,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 15,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 3,
+          "unit": "g"
+        }
+      },
+      "glycemic_index": 48.84945,
+      "glycemic_load": 31.30841,
+      "image_url": null,
+      "distance_meters": 353,
+      "servings": [
+        {
+          "id": "166181618",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "type": "menu_item",
+      "id": "188416233",
+      "name": "burrito",
+      "restaurant_name": "la laguna",
+      "is_chain": false,
+      "nutrients": {
+        "calories": {
+          "value": 850,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 30,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 90,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 78,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 40,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 12,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 6,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 2,
+          "unit": "g"
+        }
+      },
+      "glycemic_index": 47.86654,
+      "glycemic_load": 25.588425,
+      "image_url": "https://cdn-img.mealme.ai/defb5abddaa9b1551fb1a1bd66f41309fe6e4dfc/68747470733a2f2f636e2d67656f312e756265722e636f6d2f7374617469632f6d6f62696c652d636f6e74656e742f656174732f706c616365686f6c6465725f696d616765732f706c616365686f6c6465725f696d6167655f67726f636572795f333030783330302e706e67",
+      "distance_meters": 579,
+      "servings": [
+        {
+          "id": "146562273",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "type": "menu_item",
+      "id": "220652221",
+      "name": "burrito",
+      "restaurant_name": "taqueria la paz",
+      "is_chain": false,
+      "nutrients": {
+        "calories": {
+          "value": 670,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 21,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 80,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 70,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 30,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 10,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 5,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 2,
+          "unit": "g"
+        }
+      },
+      "glycemic_index": 59.75511,
+      "glycemic_load": 41.605186,
+      "image_url": "https://cdn-img.mealme.ai/defb5abddaa9b1551fb1a1bd66f41309fe6e4dfc/68747470733a2f2f636e2d67656f312e756265722e636f6d2f7374617469632f6d6f62696c652d636f6e74656e742f656174732f706c616365686f6c6465725f696d616765732f706c616365686f6c6465725f696d6167655f67726f636572795f333030783330302e706e67",
+      "distance_meters": 970,
+      "servings": [
+        {
+          "id": "176915259",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "type": "menu_item",
+      "id": "231118767",
+      "name": "burrito",
+      "restaurant_name": "el pipila",
+      "is_chain": false,
+      "nutrients": {
+        "calories": {
+          "value": 900,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 40,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 97,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 85,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 40,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 12,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 5,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 2,
+          "unit": "g"
+        }
+      },
+      "glycemic_index": 80.67665,
+      "glycemic_load": 24.485197,
+      "image_url": "https://cdn-img.mealme.ai/56aa88e0f02c3502635257e7571d0df250ff7f0d/68747470733a2f2f74622d7374617469632e756265722e636f6d2f70726f642f696d6167652d70726f632f70726f6365737365645f696d616765732f63306333363138323533323237646263356364333038366536303130313038642f61313962623039363932333130646664343165343961393663343234623361362e6a706567",
+      "distance_meters": 1319,
+      "servings": [
+        {
+          "id": "187378227",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "type": "menu_item",
+      "id": "191705083",
+      "name": "burrito",
+      "restaurant_name": "chipotle mexican grill",
+      "is_chain": false,
+      "nutrients": {
+        "calories": {
+          "value": 1070,
+          "unit": "kcal"
+        },
+        "protein": {
+          "value": 51,
+          "unit": "g"
+        },
+        "carbohydrates": {
+          "value": 115,
+          "unit": "g"
+        },
+        "net_carbohydrates": {
+          "value": 99,
+          "unit": "g"
+        },
+        "total_fat": {
+          "value": 43,
+          "unit": "g"
+        },
+        "fiber": {
+          "value": 16,
+          "unit": "g"
+        },
+        "total_sugars": {
+          "value": 6,
+          "unit": "g"
+        },
+        "added_sugars": {
+          "value": 1,
+          "unit": "g"
+        }
+      },
+      "glycemic_index": 52.277737,
+      "glycemic_load": 31.214453,
+      "image_url": "https://cdn-img.mealme.ai/65e853048b5453dfbb6899390c2cfd5e8e4ad6e6/68747470733a2f2f74622d7374617469632e756265722e636f6d2f70726f642f696d6167652d70726f632f70726f6365737365645f696d616765732f39386238626132646465393434343066346362373533376639346631323762392f35313433663165323138633637633230666535613463643333643930623037622e6a706567",
+      "distance_meters": 1731,
+      "servings": [
+        {
+          "id": "149843880",
+          "quantity": 1,
+          "unit": "serving",
+          "scaling_factor": 1,
+          "weight_grams": null,
+          "is_primary": true
+        }
+      ]
+    }
+  ]
+}

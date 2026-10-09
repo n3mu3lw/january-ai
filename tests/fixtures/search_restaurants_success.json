@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "restaurant",
+      "id": "08406d88-ad1a-4ead-a58e-066f5ea8c079",
+      "name": "Chipotle Mexican Grill",
+      "is_chain": false,
+      "distance_meters": 2140,
+      "city": "San Francisco",
+      "address1": "211 Sutter St",
+      "address2": null
+    },
+    {
+      "type": "restaurant",
+      "id": "22092ee9-6fa7-409a-a77f-f308b5edac9b",
+      "name": "Chipotle Mexican Grill",
+      "is_chain": false,
+      "distance_meters": 1731,
+      "city": "San Francisco",
+      "address1": "121 4th St",
+      "address2": "# 135"
+    },
+    {
+      "type": "restaurant",
+      "id": "1274a75c-0ddf-4201-82bb-4ab5f00fe31f",
+      "name": "Chipotle Mexican Grill",
+      "is_chain": false,
+      "distance_meters": 7222,
+      "city": "San Francisco",
+      "address1": "3251 20th Ave",
+      "address2": null
+    }
+  ]
+}

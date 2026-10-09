@@ -1,7 +1,7 @@
 use serde::{Deserialize, Serialize};
 
 /// Plan tier associated with an account credit allowance.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq)]
 #[serde(rename_all = "snake_case")]
 pub enum PlanType {
     /// Free plan
